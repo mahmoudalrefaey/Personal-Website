@@ -18,10 +18,6 @@ To view the portfolio, simply open the `index.html` file in any modern web brows
 
 While this portfolio primarily showcases Mahmoud's work, contributions to improve the codebase or suggest enhancements are welcome. Feel free to fork this repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to modify it according to your preferences and specific details of your portfolio!
